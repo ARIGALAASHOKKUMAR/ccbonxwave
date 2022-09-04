@@ -1,0 +1,147 @@
+.home-container{
+    background-size:cover;
+    width:100vw;
+}
+.image1{
+    height:60vh;
+    width:80vw;
+    margin-left:10vw;
+    margin-top:10vh;
+}
+.head1{
+    color:#183b56;
+    margin-left:40vw;
+    padding:20px;
+    font-size:50px;
+}
+.para1{
+    font-size:30px;
+    margin-left:3vw;
+}
+.container-1{
+    height:50vh;
+    width:90;
+}
+.container-2{
+    margin-bottom:3vh;
+}
+.image-bg{
+    height:50vh;
+    width:40vw;
+    margin:5vh;
+}
+.diwali-image{
+    height:60vh;
+    width:100vw;
+    background-size:cover;
+}
+.page1-inner{
+    background-color:white;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    margin:2vw;
+}
+.page1-head{
+    color:blueviolet;
+    padding:10px;
+    margin-left:4vw;
+    font-size:45px;
+}
+.page1-para{
+margin-left:4vw;
+font-size:25px;
+}
+.button1a{
+    margin-left:4vw;
+    margin-top:2vh;
+    margin-bottom:2vh;
+    height:7vh;
+    width:14vw;
+    background-color:white;
+}
+.button1b{
+    margin-left:4vw;
+    margin-bottom:2vh;
+    height:7vh;
+    width:14vw;
+}
+.page2-c{
+    background-color:rgba(135, 207, 235, 0.712);
+    background-size:cover;
+}
+.page2-c1{
+    height: 50vh;
+    width:100vw;
+    margin:5vh;
+    background-color:white;
+    border-radius:10px;
+}
+.c1-image{
+    height:25vh;
+    width:20vw;
+    margin-left:12vw;
+    margin-top:4vh;
+}
+.c1-para{
+    text-align:center;
+    color:rgba(0, 0, 0, 0.637);
+    margin-top:2vh;
+    font-size:20px;
+}
+.c1-head{
+    text-align:center;
+    color:black;
+}
+.c1-button{
+    margin-left:45vw;
+    margin-bottom:2vh;
+}
+.meals-image{
+    height:60vh;
+    width:100vw;
+}
+.meals-c{
+    background-color:goldenrod;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+.meals-head{
+    font-style:italic;
+    font-weight:bold;
+    margin-top:5vh;
+    margin-left:5vw;
+}
+.meals-para{
+    color:black;
+    margin-left:5vw;
+}
+.meals-but{
+    margin-left:5vw;
+}
+.news-image{
+    height:60vh;
+    width:100vw;
+}
+,news-container{
+    background-color:white;
+    border-radius:20px;
+}
+.n-p{
+    color:rgba(0, 0, 0, 0.603);
+    margin-left:5vw;
+    margin-top:4vh;
+    font-size:30px;
+}
+
+.nh{
+   
+    font-weight:bold;
+    margin-left:5vw;
+}
+.np2{
+    color:rgba(0, 0, 0, 0.616);
+    margin-left:5vw;
+}
+.news-button{
+    margin-left:5vw;
+}
